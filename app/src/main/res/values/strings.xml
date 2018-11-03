@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FancyButtons</string>
+    <string name="btnBoring">Boring</string>
+    <string name="bynFancy">Fancy</string>
+    <string name="btnThumbUpDesc">Thumbs up</string>
+    <string name="btnThumbDownDesc">Thumbs Down</string>
+    <string name="btnBling">Bling</string>
+    <string name="btnCool">Cool</string>
+</resources>
